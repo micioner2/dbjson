@@ -1,4 +1,11 @@
 {
+    "users":[
+        {
+            "nombre":"Mauricio",
+            "apellidos":"Zapata Pella",
+            "edad":27
+        }
+    ],
     "cursos": [
         {
             "id": 1,
